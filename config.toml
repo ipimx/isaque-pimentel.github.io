@@ -1,9 +1,14 @@
-baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
+contentDir   = "content"
+layoutDir    = "layouts"
+publishDir   = "docs"
+archetypeDir = "archetypes"
+baseurl = "https://isaque-pimentel.github.io/"  # End your URL with a `/` trailing slash.
 title = "Isaque Pimentel"
 copyright = "&copy; 2017 Isaque Pimentel"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
+
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
