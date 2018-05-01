@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>https://isaque-pimentel.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>https://isaque-pimentel.github.io/publication/asymptotic/</loc>
+      <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,8 +14,26 @@
     
     <url>
     
-      <loc>https://isaque-pimentel.github.io/event/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>https://isaque-pimentel.github.io/publication/cemracs/</loc>
+      <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://isaque-pimentel.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://isaque-pimentel.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -24,17 +42,7 @@
     <url>
     
       <loc>https://isaque-pimentel.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://isaque-pimentel.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -51,7 +59,8 @@
     
     <url>
     
-      <loc>https://isaque-pimentel.github.io/publication_types/</loc>
+      <loc>https://isaque-pimentel.github.io/</loc>
+      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -61,7 +70,6 @@
     <url>
     
       <loc>https://isaque-pimentel.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

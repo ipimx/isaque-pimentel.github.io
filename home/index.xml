@@ -1,13 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on </title>
+    <title>Homes on Isaque Pimentel</title>
     <link>https://isaque-pimentel.github.io/home/</link>
-    <description>Recent content in Homes on </description>
+    <description>Recent content in Homes on Isaque Pimentel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2018 Isaque Pimentel</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://isaque-pimentel.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://isaque-pimentel.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/home/about/</guid>
+      <description>My name is Isaque Pimentel and I am currently a Ph.D. student at École Polytechnique. My main research interests are Stochastic Control and Monte Carlo methods applied to Mathematical Finance.
+I am a candidate to a Ph.D in Applied Mathematics from the Centre de Mathématiques Appliquées (CMAP). I am sponsored by CIFRE contract with EDF R&amp;amp;D at Optimisation Simulation Risk and Statistics (OSIRIS) department. My advisor is Professor Emmanuel Gobet, coordinator of the SIMPAS research team.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://isaque-pimentel.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://isaque-pimentel.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://isaque-pimentel.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/home/talks/</guid>
+      <description>Asymptotic non-linear continuous-time valuation with hedging and asymmetric risk function. Research in Options.
+Nov 27, 2017. Rio de Janeiro, Brazil.
+Hedging with non-quadratic local risk minimization using least-squares Monte-Carlo. International Conference on Monte Carlo Methods and Applications.
+Jul 3, 2017. Montréal, Canada.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://isaque-pimentel.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://isaque-pimentel.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>https://isaque-pimentel.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://isaque-pimentel.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://isaque-pimentel.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

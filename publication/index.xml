@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Isaque Pimentel on Isaque Pimentel</title>
-    <link>https://isaque-pimentel.github.io/</link>
-    <description>Recent content in Isaque Pimentel on Isaque Pimentel</description>
+    <title>Publications on Isaque Pimentel</title>
+    <link>https://isaque-pimentel.github.io/publication/</link>
+    <description>Recent content in Publications on Isaque Pimentel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Isaque Pimentel</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://isaque-pimentel.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Option valuation and hedging using asymmetric risk function: asymptotic optimality through fully nonlinear Partial Differential Equations</title>
