@@ -41,7 +41,7 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  background-color: #fff;
+  background-color: #003E5C;
   margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
@@ -115,14 +115,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #3f51b5;
+  color: #A92021;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #3f51b5;
+  color: #A92021;
 }
 
 img,
@@ -342,7 +342,7 @@ a[data-fancybox] img {
 }
 
 .home-section {
-  background-color: rgb(255, 255, 255);
+  background-color: #f7f8f9;
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
@@ -353,7 +353,7 @@ a[data-fancybox] img {
 }
 
 .home-section:nth-of-type(even) {
-  background-color: rgb(247, 247, 247);
+  background-color: #fff;
 }
 
 @media screen and (max-width: 768px) {
@@ -448,7 +448,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #3f51b5;
+  color: #A92021;
   font-size: 3rem;
   text-align: center;
 }
@@ -665,7 +665,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: #3f51b5;
+  color: #A92021;
 }
 
 .middot-divider {
@@ -1000,8 +1000,8 @@ footer a#back_to_top i {
  **************************************************/
 
 .btn-primary {
-  border-color: #3f51b5 !important;
-  background: #3f51b5 !important;
+  border-color: #A92021 !important;
+  background: #A92021 !important;
 }
 
 .btn-primary:hover,
@@ -1009,7 +1009,7 @@ footer a#back_to_top i {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #3f51b5 !important;
+  background: #A92021 !important;
 }
 
 .btn-light {
@@ -1043,12 +1043,12 @@ footer a#back_to_top i {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: #002984 !important;
+  background-color: #005883 !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #757de8 !important;
+  background-color: #002435 !important;
 }
 
 /*************************************************
@@ -1062,12 +1062,12 @@ footer a#back_to_top i {
 }
 
 .btn-primary.btn-outline {
-  color: #3f51b5 !important;
-  border-color: #3f51b5 !important;
+  color: #A92021 !important;
+  border-color: #A92021 !important;
 }
 
 .btn-primary.btn-outline:focus {
-  color: #3f51b5 !important;
+  color: #A92021 !important;
 }
 
 .btn-primary.btn-outline:active {
@@ -1121,7 +1121,7 @@ footer a#back_to_top i {
 }
 
 .navbar-default {
-  background: #3f51b5;
+  background: #003E5C;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1154,14 +1154,14 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-  color: #8c9eff;
+  color: #98B8B4;
   background-color: transparent;
 }
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-  color: #8c9eff;
+  color: #98B8B4;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -1183,7 +1183,7 @@ nav#navbar-main li {
 }
 
 .dropdown-menu {
-  background-color: #3f51b5 !important;
+  background-color: #003E5C !important;
 }
 
 .dropdown-menu > li > a {
@@ -1198,17 +1198,17 @@ nav#navbar-main li {
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-  color: #8c9eff;
+  color: #98B8B4;
   text-decoration: none;
-  background-color: #3f51b5;
+  background-color: #003E5C;
 }
 
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:focus,
 .dropdown-menu > .active > a:hover {
-  color: #3f51b5;
+  color: #003E5C;
   text-decoration: none;
-  background-color: #8c9eff;
+  background-color: #98B8B4;
   outline: 0;
 }
 
@@ -1217,7 +1217,7 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>.open>a:hover,
 .navbar-default .navbar-nav>.open>a:visited {
   color: #fff !important;
-  background-color: #3f51b5 !important;
+  background-color: #003E5C !important;
 }
 
 .navbar-default .navbar-brand {
@@ -1323,7 +1323,7 @@ nav#navbar-main li {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
-    color: #8c9eff;
+    color: #98B8B4;
     background-color: transparent;
   }
 
@@ -1486,7 +1486,7 @@ body.dark {
 }
 
 .dark ul.share li a {
-  background-color: #3f51b5;
+  background-color: #A92021;
 }
 
 .dark table table {
@@ -1540,7 +1540,7 @@ body.dark {
 }
 
 .dark .card h4 a {
-  color: #3f51b5;
+  color: #A92021;
   border-bottom: solid 1px transparent;
 }
 
