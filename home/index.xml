@@ -19,7 +19,7 @@
       
       <guid>https://isaque-pimentel.github.io/home/about/</guid>
       <description>My name is Isaque Pimentel and I am currently a Ph.D. student at École Polytechnique. My main research interests are Stochastic Control and Monte Carlo methods applied to Mathematical Finance.
-I am a candidate to a Ph.D in Applied Mathematics from the Centre de Mathématiques Appliquées (CMAP). I am sponsored by CIFRE contract with EDF R&amp;amp;D at Optimisation Simulation Risk and Statistics (OSIRIS) department. My advisor is Professor Emmanuel Gobet, coordinator of the SIMPAS research team.</description>
+I am a candidate to a Ph.D in Applied Mathematics from the Centre de Mathématiques Appliquées (CMAP). I am sponsored by CIFRE contract with EDF R&amp;amp;D at Optimisation Simulation Risk and Statistics (OSIRIS) department. My advisor is Professor Emmanuel Gobet, coordinator of the Statistique Apprentissage Simulation Image (SIMPAS) research team.</description>
     </item>
     
     <item>
@@ -46,7 +46,9 @@ I am a candidate to a Ph.D in Applied Mathematics from the Centre de Mathématiq
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://isaque-pimentel.github.io/home/talks/</guid>
-      <description>Asymptotic non-linear continuous-time valuation with hedging and asymmetric risk function. November, 2017.
+      <description>Option valuation and hedging using asymmetric risk function (poster). September, 2018.
+ANR CAESARS, Palaiseau, France.
+Asymptotic non-linear continuous-time valuation with hedging and asymmetric risk function (poster). November, 2017.
 Research in Options, Rio de Janeiro, Brazil.
 Hedging with non-quadratic local risk minimization using least-squares Monte-Carlo. July, 2017.
 International Conference on Monte Carlo Methods and Applications, Montréal, Canada.</description>
@@ -58,16 +60,14 @@ International Conference on Monte Carlo Methods and Applications, Montréal, Can
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://isaque-pimentel.github.io/home/events/</guid>
-      <description>2018 - 11th European Summer School in Financial Mathematics.
+      <description>2018 - Advances in Modelling and Control for Power Systems of the Future (ANR CAESARS Conference).
+EDF Lab Paris-Saclay, Palaiseau, France.
+ 2018 - 11th European Summer School in Financial Mathematics.
 Ecole Polytechnique, Paris, France.
- 2018 - Berlin-Paris Young Researches Workshop, 2nd edition.
-ISC-PIF, Paris, France.
- 2018 - PhD Winter School on Real Options and Commodity Markets.
+  ISC-PIF, Paris, France. --  2018 - PhD Winter School on Real Options and Commodity Markets.
 NTNU, Tauplitz, Austria.
  2018 - 17th Winter School on Mathematical Finance.
-De Werelt, Luteren, Netherlands.
- 2017 - Numerical methods for stochastic models: control, uncertainty quantification, mean-field (CEMRACS).
-CIRM, Marseille, France.</description>
+De Werelt, Luteren, Netherlands.</description>
     </item>
     
     <item>
