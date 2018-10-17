@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="We address a class of McKean-Vlasov (MKV) control problems with common noise, called polynomial conditional MKV, and extending the known class of linear quadratic stochastic MKV control problems. We show how this polynomial class can be reduced by suitable Markov embedding to finite-dimensional stochastic control problems, and provide a discussion and comparison of three probabilistic numerical methods for solving the reduced control problem: quantization, regression by control randomization, and regress later methods. Our numerical results are illustrated on various examples from portfolio selection and liquidation under drift uncertainty, and a model of interbank systemic risk with partial observation.">
+  <meta name="description" content="We aim to solve dynamic programming equations (DPE) related to financial valuations in the energy market. On the underlying asset, we consider that a calibrated model is not available and a limited sample from its historical data is accessible. We look for a non-intrusive method solving the DPE with empirical regression techniques, by suitable resampling of the historical data (and therefore without calibration of the model). In the power market, the forward contracts are driven by hidden factors modeled by Markov processes. Even though the DPE solution depends on these hidden factors, we come up with a resampling scheme using only the historical data of a transformation of the observable forward prices. We show numerical experiments applied to Bermudan and Swing options on forward contracts.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://isaque-pimentel.github.io/publication/cemracs/">
+  <link rel="alternate" hreflang="en-us" href="https://isaque-pimentel.github.io/publication/nonintrusive/">
 
   
 
@@ -69,26 +69,26 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://isaque-pimentel.github.io/publication/cemracs/">
+  <link rel="canonical" href="https://isaque-pimentel.github.io/publication/nonintrusive/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="">
-  <meta property="og:url" content="https://isaque-pimentel.github.io/publication/cemracs/">
-  <meta property="og:title" content="A class of finite-dimensional numerically solvable McKean-Vlasov control problems | ">
-  <meta property="og:description" content="We address a class of McKean-Vlasov (MKV) control problems with common noise, called polynomial conditional MKV, and extending the known class of linear quadratic stochastic MKV control problems. We show how this polynomial class can be reduced by suitable Markov embedding to finite-dimensional stochastic control problems, and provide a discussion and comparison of three probabilistic numerical methods for solving the reduced control problem: quantization, regression by control randomization, and regress later methods. Our numerical results are illustrated on various examples from portfolio selection and liquidation under drift uncertainty, and a model of interbank systemic risk with partial observation.">
+  <meta property="og:url" content="https://isaque-pimentel.github.io/publication/nonintrusive/">
+  <meta property="og:title" content="A non-intrusive stratified resampler for multi-factor models: applications to pricing of Bermudan and Swing options | ">
+  <meta property="og:description" content="We aim to solve dynamic programming equations (DPE) related to financial valuations in the energy market. On the underlying asset, we consider that a calibrated model is not available and a limited sample from its historical data is accessible. We look for a non-intrusive method solving the DPE with empirical regression techniques, by suitable resampling of the historical data (and therefore without calibration of the model). In the power market, the forward contracts are driven by hidden factors modeled by Markov processes. Even though the DPE solution depends on these hidden factors, we come up with a resampling scheme using only the historical data of a transformation of the observable forward prices. We show numerical experiments applied to Bermudan and Swing options on forward contracts.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-03-01T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2018-10-01T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2018-03-01T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2018-10-01T00:00:00&#43;00:00">
   
 
   
 
-  <title>A class of finite-dimensional numerically solvable McKean-Vlasov control problems | </title>
+  
+
+  <title>A non-intrusive stratified resampler for multi-factor models: applications to pricing of Bermudan and Swing options | </title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -229,10 +229,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">A class of finite-dimensional numerically solvable McKean-Vlasov control problems</h1>
+    <h1 itemprop="name">A non-intrusive stratified resampler for multi-factor models: applications to pricing of Bermudan and Swing options</h1>
     <span class="pub-authors" itemprop="author">
       
-      Alessandro Balata, Côme Huré, Mathieu Laurière, Huyên Pham, Isaque Pimentel
+      Emmanuel Gobet, Isaque Pimentel, Jorge Zubelli
       
     </span>
     <span class="pull-right">
@@ -244,7 +244,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We address a class of McKean-Vlasov (MKV) control problems with common noise, called polynomial conditional MKV, and extending the known class of linear quadratic stochastic MKV control problems. We show how this polynomial class can be reduced by suitable Markov embedding to finite-dimensional stochastic control problems, and provide a discussion and comparison of three probabilistic numerical methods for solving the reduced control problem: quantization, regression by control randomization, and regress later methods. Our numerical results are illustrated on various examples from portfolio selection and liquidation under drift uncertainty, and a model of interbank systemic risk with partial observation.</p>
+    <p class="pub-abstract" itemprop="text">We aim to solve dynamic programming equations (DPE) related to financial valuations in the energy market. On the underlying asset, we consider that a calibrated model is not available and a limited sample from its historical data is accessible. We look for a non-intrusive method solving the DPE with empirical regression techniques, by suitable resampling of the historical data (and therefore without calibration of the model). In the power market, the forward contracts are driven by hidden factors modeled by Markov processes. Even though the DPE solution depends on these hidden factors, we come up with a resampling scheme using only the historical data of a transformation of the observable forward prices. We show numerical experiments applied to Bermudan and Swing options on forward contracts.</p>
     
 
     
@@ -255,8 +255,8 @@
           <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
           <div class="col-xs-12 col-sm-9">
             
-            <a href="https://isaque-pimentel.github.io/publication/#1">
-              Conference paper
+            <a href="https://isaque-pimentel.github.io/publication/#0">
+              Uncategorized
             </a>
             
           </div>
@@ -273,7 +273,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Submitted</div>
+          <div class="col-xs-12 col-sm-9">Preprint</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -287,7 +287,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            March, 2018
+            October, 2018
           </div>
         </div>
       </div>
@@ -319,10 +319,6 @@
 
 
 
-
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/1803.00445" target="_blank" rel="noopener">
-  arXiv
-</a>
 
 
 
@@ -426,6 +422,13 @@
       <script>hljs.initHighlightingOnLoad();</script>
     
 
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
     
     
 

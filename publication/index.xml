@@ -13,20 +13,38 @@
     
     
     <item>
-      <title>Option valuation and hedging using asymmetric risk function: asymptotic optimality through fully nonlinear Partial Differential Equations</title>
-      <link>https://isaque-pimentel.github.io/publication/asymptotic/</link>
-      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      <title>A non-intrusive stratified resampler for multi-factor models: applications to pricing of Bermudan and Swing options</title>
+      <link>https://isaque-pimentel.github.io/publication/nonintrusive/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://isaque-pimentel.github.io/publication/asymptotic/</guid>
+      <guid>https://isaque-pimentel.github.io/publication/nonintrusive/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Class of Finite-Dimensional Numerically Solvable McKean-Vlasov Control Problems</title>
+      <title>Cost management under asymmetric risk valuation</title>
+      <link>https://isaque-pimentel.github.io/publication/application/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/publication/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A class of finite-dimensional numerically solvable McKean-Vlasov control problems</title>
       <link>https://isaque-pimentel.github.io/publication/cemracs/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://isaque-pimentel.github.io/publication/cemracs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Option valuation and hedging using asymmetric risk function: asymptotic optimality through fully nonlinear partial differential equations</title>
+      <link>https://isaque-pimentel.github.io/publication/asymptotic/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/publication/asymptotic/</guid>
       <description></description>
     </item>
     
