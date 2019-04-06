@@ -6,7 +6,7 @@
     <description>Recent content in Homes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Isaque Pimentel</copyright>
+    <copyright>&amp;copy; 2019 Isaque Pimentel</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://isaque-pimentel.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://isaque-pimentel.github.io/home/about/</guid>
-      <description>I am currently a research assistant at the Department of Applied Mathematics CMAP at École polytechnique. I am working on stochastic control problems with applications to finance and economics.
-My research interests include option pricing and hedging with asymmetric risk and numerical methods for dynamic programming equations.
-I have a Ph.D. in Financial Mathematics from the CMAP at École polytechnique sponsored by a CIFRE contract with EDF R&amp;amp;D. My advisor was Professor Emmanuel Gobet, coordinator of the Statistique Apprentissage Simulation Image SIMPAS research team.</description>
+      <description>Looking for new opportunities in financial institutions.
+I am currently a research engineer in Department of Applied Mathematics CMAP at École Polytechnique. I am working on stochastic control problems with applications to finance and economics. My research interests include option pricing and hedging with asymmetric risk and numerical methods for dynamic programming equations.
+I have a Ph.D. in Applied Mathematics from the CMAP at École Polytechnique sponsored by a CIFRE contract with EDF R&amp;amp;D.</description>
     </item>
     
     <item>
@@ -47,7 +47,8 @@ I have a Ph.D. in Financial Mathematics from the CMAP at École polytechnique sp
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://isaque-pimentel.github.io/home/talks/</guid>
-      <description>Option valuation and hedging using asymmetric risk function (poster). September, 2018.
+      <description>Valorisation et couverture d&amp;rsquo;options avec risque asymétrique (slide). October, 2018. Soutenance de thèse, Ecole Polytechnique, Palaiseau, France.
+Option valuation and hedging using asymmetric risk function (poster). September, 2018.
 ANR CAESARS Closing Conference, Palaiseau, France.
 Asymptotic non-linear continuous-time valuation with hedging and asymmetric risk function (poster). November, 2017.
 Research in Options, Rio de Janeiro, Brazil.

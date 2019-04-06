@@ -6,9 +6,27 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Isaque Pimentel</copyright>
+    <copyright>&amp;copy; 2019 Isaque Pimentel</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A power plant valuation under an asymmetric risk criterion taking into account maintenance costs</title>
+      <link>https://isaque-pimentel.github.io/publication/application/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/publication/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymptotic optimal pricing with asymmetric risk and applications in finance</title>
+      <link>https://isaque-pimentel.github.io/publication/thesis/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://isaque-pimentel.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A non-intrusive stratified resampler for multi-factor models: applications to pricing of Bermudan and Swing options</title>
@@ -16,15 +34,6 @@
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://isaque-pimentel.github.io/publication/nonintrusive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A power plant valuation under an asymmetric risk criterion taking into account maintenance costs</title>
-      <link>https://isaque-pimentel.github.io/publication/application/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://isaque-pimentel.github.io/publication/application/</guid>
       <description></description>
     </item>
     
